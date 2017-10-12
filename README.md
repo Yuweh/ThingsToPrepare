@@ -1,8 +1,8 @@
 ## ThingsToPrepare
 
-T###HINGS TO COMPLETE:
+### THINGS TO COMPLETE:
 
-##10 steps to become a professional iOS developer.
+## 10 steps to become a professional iOS developer.
 1. Buy a Mac (and iPhone — if you don’t have one).
 2. Install Xcode.
 3. Learn basics of programming (probably the hardest point).
@@ -14,7 +14,7 @@ T###HINGS TO COMPLETE:
 9. Upload your app to GitHub.
 10. Contact the company you want to work in!
 
-##14 must have to become a professional iOS developer.
+## 14 must have to become a professional iOS developer.
 1 — Source control: SVN & GIT
 2 — Architecture patterns: MVC & MVVM
 3 — Objective-C vs. Swift
@@ -30,7 +30,7 @@ T###HINGS TO COMPLETE:
 13 — Location
 14 — Localizable Strings
 
-##10 Things I wish I had known before starting iOS development
+## 10 Things I wish I had known before starting iOS development
 
 - Focus on the fundamentals
 - Github is your best friend
